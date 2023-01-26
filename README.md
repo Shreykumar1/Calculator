@@ -1,11 +1,11 @@
 # Calculator
 Link of the Website
-#https://shrey-calculator.netlify.app/
+#https://shrey-calculator.netlify.app
 
-Basic Calculator 
+Basic Calculator Website
 
-Languages Used 
-. HTML
-. CSS
+Languages Used   
+. HTML  
+. CSS  
 . JAVASCRIPT
 
